@@ -1,6 +1,6 @@
 ##  Picture Search
 
-A four step layered user & personal details, confirmation and success page application.
+Image finder application that fetches from an api based on query string and displays 
 
 **[View Live](http://picturesearch.surge.sh/)**
 
